@@ -36,11 +36,11 @@
   /* Fundo principal do site */
 
   /* 🌿 Cores Primárias (cores fixas - NÃO mudam com o tema) */
-  --primary-light: #4de7b7;
+  --primary-light: #c90868;
   /* Usado para realces suaves */
   --primary: #e63ec1;
   /* Cor principal do projeto */
-  --primary-dark: #065f46;
+  --primary-dark: #000000;
   /* Usado em hovers e elementos ativos */
 
   /* 🔗 Links */
